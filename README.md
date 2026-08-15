@@ -156,4 +156,10 @@ Copy `.env.example` to `.env` and configure as needed.
 
 ---
 
+##  **Developer**
+
+**Dev**: [JackByteBack](https://github.com/JackByteBack)
+
+---
+
 *Built for Smart India Hackathon 2025 - Healthcare & Medical Technology Track*
